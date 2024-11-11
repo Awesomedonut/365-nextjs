@@ -9,3 +9,6 @@ Dependencies.toml
 Config.toml
 # the config files used for testing, Uncomment the following line if you want to commit the test config files
 #!**/tests/Config.toml
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
